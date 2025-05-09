@@ -1,0 +1,11 @@
+:root {
+  --vc-color-bg-canvas: #f0eff0;
+  --vc-color-bg-white-canvas: #ffffff;
+  --vc-color-bg-black-canvas: #2a282a;
+}
+
+.vc-theme-main--light {}
+
+.vc-theme-save--light {}
+
+.vc-theme-main--dark {}
